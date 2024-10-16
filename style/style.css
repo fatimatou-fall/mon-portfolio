@@ -1,0 +1,31 @@
+h3 { 
+    color: darkmagenta;
+    text-align: center;
+}
+h5 {
+    color: violet;
+    font-size: x-large;
+}
+header nav ul{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+header nav ul li{
+  list-style: none;
+}
+header nav ul li a{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  }
+h1,h3, p {
+font-family:"roboto",sans-serif;
+}
+.ma-classe {
+color: blue;
+font-size: 16px;
+}
+.parent .enfant2 h1{
+    color: coral;
+}
